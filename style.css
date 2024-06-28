@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Display */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  padding-bottom: 4px;
+}
+.display {
+  width: 536px;
+  height: 132px;
+  background: #000000;
+}
